@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Belonfa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="ShopNames">
+        <item>ABC Shop \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t 110</item>
+        <item>Shop2  \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t\t\t 50</item>
+        <item>Shop3   \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t\t  220</item>
+    </string-array>
+    <string-array name="ABCShop">
+        <item>10% Off on PIZZA   \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t  50</item>
+        <item>1 Free Coffee    \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t\t\t\t  100</item>
+        <item>50% of New Dish  \t\t\t\t\t\t\t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t  20</item>
+    </string-array>
+</resources>
